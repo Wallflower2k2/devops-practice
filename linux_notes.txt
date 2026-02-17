@@ -9,3 +9,6 @@ mv - move or renames the files
 echo -displays text
 cat - to view file content
 touch - create empty files or updaetes timestamps
+less - paginated viewer
+head - view start of the file
+tail - view end of the file
